@@ -26,7 +26,7 @@ function createApp() {
 
   // Append the inputPage to the app
   appElement.append(enterBirthdayPage);
-  document.body.append(footerComponent);
+  appElement.append(footerComponent);
 }
 
 // Run the createApp function
