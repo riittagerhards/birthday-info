@@ -42,12 +42,12 @@ h5 {
   justify-items: center;
 }
 
+
 .submitButton {
   background-color: springgreen;
   font-family: var(--font-family);
   border: none;
   border-radius: var(--border-radius);
-}
 
 .form {
   display: grid;
