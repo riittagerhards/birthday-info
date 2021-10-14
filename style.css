@@ -42,7 +42,12 @@ h5 {
   justify-items: center;
 }
 
-.submission {
+.form {
   display: grid;
   gap: 1rem;
+}
+.submitButton {
+  font-family: var(--font-family);
+  border: none;
+  border-radius: 1em;
 }
