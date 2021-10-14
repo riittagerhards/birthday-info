@@ -42,12 +42,21 @@ h5 {
   justify-items: center;
 }
 
-.form {
-  display: grid;
-  gap: 1rem;
-}
+
 .submitButton {
+  background-color: springgreen;
   font-family: var(--font-family);
   border: none;
   border-radius: var(--border-radius);
+
+.form {
+  display: grid;
+  gap: 0.7em;
+}
+.footer {
+  font-size: 0.8rem;
+  color: orange;
+  text-align: center;
+  position: fixed;
+  bottom: 2%;
 }
